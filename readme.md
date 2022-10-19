@@ -3,9 +3,7 @@
 Submit your document formatted as a Markdown file on Github contained in its own folder. 
 For this, you will use "Github" flavored markdown, as it is called. 
 You can include equations in usual LaTeX-like way, $Ax=b$, or like this
-$$
-Ax=b.
-$$
+$$Ax=b.$$
 You can also include images.
 Pseudocode in included via backticks, like this
 ```
