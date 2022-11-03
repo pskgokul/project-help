@@ -39,6 +39,6 @@ __In your own words.__
 2. Can
 3. Go
 4. Here
-5. Bryngelson, S. H., &amp; Freund, J. B. (2016). Capsule-train stability. Physical Review Fluids, 1(3). https://doi.org/10.1103/physrevfluids.1.033201 
+5. Bryngelson, S. H., & Freund, J. B. (2016). Capsule-train stability. Physical Review Fluids, 1(3). https://doi.org/10.1103/physrevfluids.1.033201 
 
 # What should your document not contain
