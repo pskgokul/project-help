@@ -52,6 +52,8 @@ Here are some example articles that are too short
 * http://www.scholarpedia.org/article/Normal_forms
 * https://en.wikipedia.org/wiki/Numerical_method
 
+Here is one that [is probably too long](https://en.wikipedia.org/wiki/Floating-point_arithmetic) for this project.
+
 ## Audience
 
 Write your article such that it could be understood by a student who is about to take this course, but hasn't started yet (you just a few months ago!).
