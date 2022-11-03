@@ -4,13 +4,13 @@
 
 __In your own words.__
 
-* An explanation of the key points of the problem
+* An apprpropriate explanation of the key points of the topic (see "Audience" below)
 
 * Description of methods used to solve the problem
-	* Algorithms you learned! And perhaps some we didn't have time to go over
+	* Algorithms you learned! And perhaps some we didn't have time to go over.
 
 * When the methods fail and when they do well
-	* For example, conditioning can play a role here
+	* For example, conditioning can play a role here.
 
 * Examples of edge cases or special cases of the problem. 
 	* For example, solving banded matrices is a "special case" of solving a linear system.
@@ -22,16 +22,16 @@ __In your own words.__
 * I encourage you to write a report that is a hybrid between a wikipedia article (a bit more general audience) and a scholarpedia article (a bit more technical). For example, try:
 	* Including some history and example applications in your report (wikipedia-style) 
 	* Including some pseudocode and some degree of neuance via equations (scholarpedia-style)
-	* Here are some examples:
-		* http://www.scholarpedia.org/article/Delay-differential_equations
+	* Here are some examples that 
 		* http://www.scholarpedia.org/article/Galerkin_methods
 		* http://www.scholarpedia.org/article/Meshless_methods_for_PDEs
-
+		* https://en.wikipedia.org/wiki/Euler_method
 
 ## What your report should not contain
 
 * Videos (GIF is acceptable if you can get it to work, though)
 * Grammar or spelling errors
+* Incomplete sentences.
 
 You are _allowed_ to use external links! You are also encouraged to cite other books and papers (see below for that).
 
