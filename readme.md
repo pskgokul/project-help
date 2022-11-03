@@ -37,12 +37,15 @@ You are _allowed_ to use external links! You are also encouraged to cite other b
 
 ## How to submit
 
-Submit your document formatted as a Markdown file on Github contained in its own folder. 
-For this, you will use "Github" flavored markdown, as it is called. 
+Submit your document formatted as a `.zip` (if you included images) or `.md` (if not). 
+
+## Formatting 
+
+Use "Github" flavored markdown, which is a slightly more powerful version of usual markdown. The file extension is usually `.md`.
 You can include equations in usual LaTeX-like way, $Ax=b$, or like this
 $$Ax=b.$$
 You can also include images.
-Pseudocode in included via backticks, like this
+Pseudocode in included via triple backticks, like this
 ```
 Pseudocode
 Can
@@ -54,6 +57,8 @@ and inline code can `go like this`.
 Here are some links for Github-flavored markdown syntax that could be helpful:
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+__Be sure to create a (private) repository on your own Github profile to make sure that your report shows up as you intended!__
 
 ## Length
 
