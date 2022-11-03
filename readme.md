@@ -1,22 +1,6 @@
 # CX/MATH 4640 Final Project
 
-## How to submit
-
-Submit your document formatted as a Markdown file on Github contained in its own folder. 
-For this, you will use "Github" flavored markdown, as it is called. 
-You can include equations in usual LaTeX-like way, $Ax=b$, or like this
-$$Ax=b.$$
-You can also include images.
-Pseudocode in included via backticks, like this
-```
-Pseudocode
-Can
-Go 
-Here
-```
-and inline code can `go like this`.
-
-## What your document should contain
+## What your report should contain
 
 __In your own words.__
 
@@ -33,12 +17,45 @@ __In your own words.__
 
 * Compact pseudocode for key algorithms in the topic you chose
 
-* Appropriate paper and book references at the bottom of the document. Use APA style (see below).
+* Appropriate paper and book references at the bottom of the document. Use [APA style](https://www.citationmachine.net/apa).
 
-## What should your document not contain
+## What your report should not contain
 
 * Videos (GIF is acceptable if you can get it to work, though)
 * Grammar or spelling errors
+
+You are _allowed_ to use external links! You are also encouraged to cite other books and papers (see below for that).
+
+## How to submit
+
+Submit your document formatted as a Markdown file on Github contained in its own folder. 
+For this, you will use "Github" flavored markdown, as it is called. 
+You can include equations in usual LaTeX-like way, $Ax=b$, or like this
+$$Ax=b.$$
+You can also include images.
+Pseudocode in included via backticks, like this
+```
+Pseudocode
+Can
+Go 
+Here
+```
+and inline code can `go like this`.
+
+## Length
+
+The length of your article is flexible. 
+However, I understand it is useful to put some bounds on things.
+
+Here are some example articles that are too short
+* http://www.scholarpedia.org/article/Fixed_point
+* http://www.scholarpedia.org/article/Normal_forms
+* https://en.wikipedia.org/wiki/Numerical_method
+
+## Audience
+
+Write your article such that it could be understood by a student who is about to take this course, but hasn't started yet (you just a few months ago!).
+For example, [here is one](http://www.scholarpedia.org/article/WENO_methods) that is presented in a way that is too complex for your mock audience. 
 
 ## Helpful links
 
@@ -49,6 +66,7 @@ Markdown
 Examples
 * http://www.scholarpedia.org/article/Delay-differential_equations
 * http://www.scholarpedia.org/article/Galerkin_methods
+* http://www.scholarpedia.org/article/Meshless_methods_for_PDEs
 
 ## References
 
