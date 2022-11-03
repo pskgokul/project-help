@@ -65,7 +65,7 @@ Here are some example articles that are too short
 * http://www.scholarpedia.org/article/Normal_forms
 * https://en.wikipedia.org/wiki/Numerical_method
 
-Here is one that [is probably too long](https://en.wikipedia.org/wiki/Floating-point_arithmetic) for this project.
+Here is one that [is probably too long](https://en.wikipedia.org/wiki/Floating-point_arithmetic) for this project, though I will certainly not mark you down if you write something this comprehensive!
 
 ## Audience
 
