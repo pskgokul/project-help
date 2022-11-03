@@ -52,6 +52,7 @@ $$Ax=b.$$
 You can also include images like this (notice that the image file is in the repository)! 
 
 ![](example_gif.gif)
+
 You can also include `.gif`s!
 
 Pseudocode is included via triple backticks, like this
