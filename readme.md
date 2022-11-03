@@ -43,7 +43,15 @@ __In your own words.__
 
 # What should your document not contain
 
+* Videos (GIF is acceptable if you can get it to work, though)
+* Grammar or spelling errors
+
 ## Helpful links
 
+Markdown
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+Examples
+* http://www.scholarpedia.org/article/Delay-differential_equations
+* http://www.scholarpedia.org/article/Galerkin_methods
