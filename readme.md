@@ -4,7 +4,7 @@
 
 __In your own words.__
 
-* An apprpropriate explanation of the key points of the topic (see "Audience" below)
+* An appropriate explanation of the key points of the topic (see "Audience" below)
 
 * Description of methods used to solve the problem
 	* Algorithms you learned! And perhaps some we didn't have time to go over.
@@ -51,7 +51,10 @@ $$Ax=b.$$
 
 You can also include images like this (notice that the image file is in the repository)! 
 
-Pseudocode in included via triple backticks, like this
+![](example_gif.gif)
+You can also include `.gif`s!
+
+Pseudocode is included via triple backticks, like this
 ```
 Pseudocode
 Can
@@ -59,8 +62,6 @@ Go
 Here
 ```
 and inline code can `go like this`.
-
-
 
 Here are some links for Github-flavored markdown syntax that could be helpful:
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
