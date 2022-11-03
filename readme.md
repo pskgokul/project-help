@@ -31,7 +31,7 @@ __In your own words.__
 
 * Compact pseudocode for key algorithms in the topic you chose
 
-* Appropriate paper and book references at the bottom of the document.
+* Appropriate paper and book references at the bottom of the document. Use APA style (see below).
 
 ## References
 
@@ -39,5 +39,6 @@ __In your own words.__
 2. Can
 3. Go
 4. Here
+5. Bryngelson, S. H., &amp; Freund, J. B. (2016). Capsule-train stability. Physical Review Fluids, 1(3). https://doi.org/10.1103/physrevfluids.1.033201 
 
 # What should your document not contain
