@@ -42,3 +42,8 @@ __In your own words.__
 5. Bryngelson, S. H., & Freund, J. B. (2018). Global stability of flowing red blood cell trains. Physical Review Fluids, 3(7). https://doi.org/10.1103/physrevfluids.3.073101 
 
 # What should your document not contain
+
+## Helpful links
+
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
