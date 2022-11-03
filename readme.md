@@ -46,7 +46,8 @@ __Be sure to create a (private) repository on your own Github profile to make su
 Use "Github" flavored markdown, which is a slightly more powerful version of usual markdown. The file extension is usually `.md`.
 You can include equations in usual LaTeX-like way, $Ax=b$, or like this
 $$Ax=b.$$
-You can also include images.
+You can also include images like this ![](images.png)
+
 Pseudocode in included via triple backticks, like this
 ```
 Pseudocode
@@ -55,6 +56,8 @@ Go
 Here
 ```
 and inline code can `go like this`.
+
+
 
 Here are some links for Github-flavored markdown syntax that could be helpful:
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
