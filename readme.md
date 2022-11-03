@@ -31,5 +31,13 @@ __In your own words.__
 
 * Compact pseudocode for key algorithms in the topic you chose
 
+* Appropriate paper and book references at the bottom of the document.
+
+## References
+
+1. References
+2. Can
+3. Go
+4. Here
 
 # What should your document not contain
