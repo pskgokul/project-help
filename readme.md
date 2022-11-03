@@ -22,6 +22,10 @@ __In your own words.__
 * I encourage you to write a report that is a hybrid between a wikipedia article (a bit more general audience) and a scholarpedia article (a bit more technical). For example, try:
 	* Including some history and example applications in your report (wikipedia-style) 
 	* Including some pseudocode and some degree of neuance via equations (scholarpedia-style)
+	* Here are some examples:
+		* http://www.scholarpedia.org/article/Delay-differential_equations
+		* http://www.scholarpedia.org/article/Galerkin_methods
+		* http://www.scholarpedia.org/article/Meshless_methods_for_PDEs
 
 
 ## What your report should not contain
@@ -47,6 +51,10 @@ Here
 ```
 and inline code can `go like this`.
 
+Here are some links for Github-flavored markdown syntax that could be helpful:
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 ## Length
 
 The length of your article is flexible. 
@@ -63,17 +71,6 @@ Here is one that [is probably too long](https://en.wikipedia.org/wiki/Floating-p
 
 Write your article such that it could be understood by a student who is about to take this course, but hasn't started yet (you just a few months ago!).
 For example, [here is one](http://www.scholarpedia.org/article/WENO_methods) that is presented in a way that is too complex for your mock audience. 
-
-## Helpful links
-
-Markdown
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-Examples
-* http://www.scholarpedia.org/article/Delay-differential_equations
-* http://www.scholarpedia.org/article/Galerkin_methods
-* http://www.scholarpedia.org/article/Meshless_methods_for_PDEs
 
 ## References
 
