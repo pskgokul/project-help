@@ -2,7 +2,7 @@
 
 1. 
 	* Floating point number systems and their arithmetic
-	* Backward and forward errors
+	* Backward and forward errors. Include how they can be used to compute stability of an algorithm, the relative pitfalls of each, and how they are used in practice.
 
 2. 
 	* Systems of linear equations
