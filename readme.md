@@ -29,7 +29,7 @@ __In your own words.__
 
 ## What your report should not contain
 
-* Videos (GIF is acceptable if you can get it to work, though)
+* Videos (`.gif` is acceptable, though, but don't upload anything that is more than 25MB large)
 * Grammar or spelling errors
 * Incomplete sentences.
 
