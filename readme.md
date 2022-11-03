@@ -19,6 +19,11 @@ __In your own words.__
 
 * Appropriate paper and book references at the bottom of the document. Use [APA style](https://www.citationmachine.net/apa).
 
+* I encourage you to write a report that is a hybrid between a wikipedia article (a bit more general audience) and a scholarpedia article (a bit more technical). For example, try:
+	* Including some history and example applications in your report (wikipedia-style) 
+	* Including some pseudocode and some degree of neuance via equations (scholarpedia-style)
+
+
 ## What your report should not contain
 
 * Videos (GIF is acceptable if you can get it to work, though)
