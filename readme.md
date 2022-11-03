@@ -1,4 +1,6 @@
-# How to submit
+# CX/MATH 4640 Final Project
+
+## How to submit
 
 Submit your document formatted as a Markdown file on Github contained in its own folder. 
 For this, you will use "Github" flavored markdown, as it is called. 
@@ -14,7 +16,7 @@ Here
 ```
 and inline code can `go like this`.
 
-# What should your document contain
+## What your document should contain
 
 __In your own words.__
 
@@ -33,15 +35,7 @@ __In your own words.__
 
 * Appropriate paper and book references at the bottom of the document. Use APA style (see below).
 
-## References
-
-1. References
-2. Can
-3. Go
-4. Here
-5. Bryngelson, S. H., & Freund, J. B. (2018). Global stability of flowing red blood cell trains. Physical Review Fluids, 3(7). https://doi.org/10.1103/physrevfluids.3.073101 
-
-# What should your document not contain
+## What should your document not contain
 
 * Videos (GIF is acceptable if you can get it to work, though)
 * Grammar or spelling errors
@@ -55,3 +49,11 @@ Markdown
 Examples
 * http://www.scholarpedia.org/article/Delay-differential_equations
 * http://www.scholarpedia.org/article/Galerkin_methods
+
+## References
+
+1. References
+2. Can
+3. Go
+4. Here
+5. Bryngelson, S. H., & Freund, J. B. (2018). Global stability of flowing red blood cell trains. Physical Review Fluids, 3(7). https://doi.org/10.1103/physrevfluids.3.073101 
