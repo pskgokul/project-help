@@ -46,7 +46,9 @@ __Be sure to create a (private) repository on your own Github profile to make su
 Use "Github" flavored markdown, which is a slightly more powerful version of usual markdown. The file extension is usually `.md`.
 You can include equations in usual LaTeX-like way, $Ax=b$, or like this
 $$Ax=b.$$
-You can also include images like this ![](images.png)
+
+![](images.png)
+You can also include images like this (notice that the image file is in the repository)! 
 
 Pseudocode in included via triple backticks, like this
 ```
