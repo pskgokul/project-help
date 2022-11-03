@@ -48,6 +48,7 @@ You can include equations in usual LaTeX-like way, $Ax=b$, or like this
 $$Ax=b.$$
 
 ![](images.png)
+
 You can also include images like this (notice that the image file is in the repository)! 
 
 Pseudocode in included via triple backticks, like this
