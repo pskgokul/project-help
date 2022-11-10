@@ -37,7 +37,7 @@ You are _allowed_ to use external links! You are also encouraged to cite other b
 
 ## How to submit
 
-Submit your document formatted as a `.zip` (if you included images) or `.md` (if not). 
+Submit your document formatted as a `.zip` (if you included images) or `.md` (if not) to Canvas.
 
 __Be sure to create a (private) repository on your own Github profile to make sure that your report shows up as you intended!__
 
