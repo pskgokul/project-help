@@ -41,7 +41,7 @@ Submit your document formatted as a `.zip` (if you included images) or `.md` (if
 
 __Be sure to create a (private) repository on your own Github profile to make sure that your report shows up as you intended!__
 
-Include a header in your file that includes the following information
+Include the following header at the top of your `.md` file:
 ```
 ---
 Name: Your Name
