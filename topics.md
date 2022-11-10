@@ -1,4 +1,13 @@
-# Topics list (34)
+# Final Project Topics
+
+Rank-order your top choices of the below topics to write on for your final report. 
+Student order will be shuffled then the top still-available topic will be assigned to you. 
+If your list is already fully taken by the time your name comes up, then a random topic from below will be picked for you, so it might be worth including a longer list than you would otherwise. 
+
+__Special topics:__ You may put your own topic in your list! Make clear that your topic is not one of the ones below by denoted it with an asterisk. Picking a special topic is a way to ensure you get to write about a topic interesting to you, but it should _not_ have been discussed in class (that's what makes it special!).
+
+__A note on fairness:__ Some of these topics may be easier or harder to write about depending on at what length they were discussed in class. 
+This will be taken into account while grading, with somewhat fewer details and less depth expected for more complex or well-discussed topics. 
 
 1. Floating point number systems. Include some examples of non-standard (non-IEEE) floating point systems. When one might use various types of floating point systems. How they are implemented in software and hardware. Why different hardware may only natively support certain types of floating point numbers.
 2. Floating point arithmetic, how floating point errors can grow and how to prevent it. Catestrophic cancellation. 
