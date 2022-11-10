@@ -15,10 +15,10 @@
 13. QR iteration. How it works, why its used, its limitations and strengths.
 14. Subspace methods. Their history, what they are particularly good for, why they work quite well for some problems.
 15. Software: How does one compute eigenvalues for big problems in practice? What about for specific types of matrices, like symmetric or SPD? Examples should be libraries used in HPC applications (not Python implemenations).
-16. 1. What are nonlinear equations and why is solving them challenging? How do we know if a solution exists? How do we check? Discuss conditioning and uniqueness. Discuss why iterative methods are needed (as opposed to direct methods). How nonlineawr equations and root finding are equivalent.
+16. What are nonlinear equations and why is solving them challenging? How do we know if a solution exists? How do we check? Discuss conditioning and uniqueness. Discuss why iterative methods are needed (as opposed to direct methods). How nonlineawr equations and root finding are equivalent.
 17. Derivative free methods for rootfinding: Bisection, Secant, etc. How they work, why they work, what could go wrong. 
 18. Fixed-point iteration methods and Newton's method. How they work, why they work, what gould go wrong. 
-19. 1. Overview of optimization, constrained vs unconstined optimization, how optimization problems are defined, relevance of convexity and optimality conditions. Degenerate cases where things can go "wrong". Linear vs. quadratic vs. nonlinear programming.
+19. Overview of optimization, constrained vs unconstined optimization, how optimization problems are defined, relevance of convexity and optimality conditions. Degenerate cases where things can go "wrong". Linear vs. quadratic vs. nonlinear programming.
 20. 1D unconstained optimization algorithms. Parabolic interpolation, Newton's method, etc. How they work, rates of convergence, why they work, pros and cons of the various different methods.
 21. 2D optimization algorithm(s). Steepest descent. How the methods work.
 22. Equality constrained optimization. Lagrangians. How they work, example, what can go wrong.
