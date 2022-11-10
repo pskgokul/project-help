@@ -41,6 +41,15 @@ Submit your document formatted as a `.zip` (if you included images) or `.md` (if
 
 __Be sure to create a (private) repository on your own Github profile to make sure that your report shows up as you intended!__
 
+Include a header in your file that includes the following information
+```
+---
+Name: Your Name
+Topic: [Topic Number]
+Title: Title of your article
+----
+```
+
 ## Formatting 
 
 Use "Github" flavored markdown, which is a slightly more powerful version of usual markdown. The file extension is usually `.md`.
@@ -67,7 +76,6 @@ and inline code can `go like this`.
 Here are some links for Github-flavored markdown syntax that could be helpful:
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
 
 ## Length
 
