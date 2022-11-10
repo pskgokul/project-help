@@ -1,4 +1,4 @@
-# Topics to choose from (30)
+# Topics to choose from (34)
 
 The below are listed by chapter. 
 
@@ -12,7 +12,9 @@ The below are listed by chapter.
 	3. Software for linear equations, LAPACK, BLAS, and vendor-specific varieties on them. How they are used. 
 
 3. Linear least squares
-	1.
+	1. The normal equations. What they are, what you are used for, what the problem with them is, when one might consider using them, why one might learn about them.
+	2. Gram-Schmidt orthogonalization (standard and motified versions), including potential for loss of orthogonality. What problems it is and is not practical for.
+	3. The SVD. What is it, what it can be used for, how it can be computed. 
 
 4. Eigenvalue problems
 
