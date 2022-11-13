@@ -112,15 +112,15 @@ From the `topics.md` document:
 	* Not including topics that are irrelevant to yours (at least not without explanation of why they are there!). 
 	* Do include reference to topics, via links and proper references, that are relevant to yours. 
 	* Use hyperlinks to navigate around your document (for example, [like this](https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown)). 
-	* Make your document intellectually accesssible to your mock audience. 
+	* Make your document intellectually accesssible to your mock audience (discussed above). 
 	* No non sequiturs.
 	* Use proper English grammar. 
 	* No spelling mistakes.
 
-* 10% __Aesthetics.__ Get full points here by
+* 10% __Presentation.__ Get full points here by
 	* Using high quality graphics (if you use graphics). 
-	* Make it something that you would be proud to show to your colleagues.
 	* Consistent style.
+	* Make it something that you would be proud to show to your colleagues.
 
 * 10% __Organization.__ Get full points here by 
 	* Separate and organize sections and subsections appropriately. 
