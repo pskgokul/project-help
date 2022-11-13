@@ -101,26 +101,26 @@ From the `topics.md` document:
 
 ### Rubric
 
-* 15% __Asthetics and grammar.__ 
-	* Get full points by using high quality graphics (if you use graphics). 
-	* Use proper English grammar. 
-	* Separate sections appropriately. 
-	* Include a table of contents, things like this. 
-	* Make it something that you would be proud to show to your colleagues.
+* 60% __Technical correctness and completeness.__ Get full points here by
+	* Not saying things that are technically incorrect. 
+	* Completeness is a bit nebulus here. You do not need to include _everything_ you could possibly discuss about your topic (that could be an entire textbook in some cases!). 
+	Instead, include a combination of breadth and depth that is in line with some of the Wikipedia/Scholarpedia examples provided. 
+	* In many cases you should include some equations and pseudocode to explain your topic, though there are a few exceptions to this.
+	* Not mentioning a method that is critical to your topic could result in deducted points, especially if that topic was discussed at length in class.
 
-* 15% __Clarity.__ 
-	* Get full points by not including topics that are irrelevant to yours (at least not without explanation of why they are there!). 
+* 15% __Clarity.__ Get full points here by
+	* Not including topics that are irrelevant to yours (at least not without explanation of why they are there!). 
 	* Do include reference to topics, via links and proper references, that are relevant to yours. 
 	* Use hyperlinks to navigate around your document (for example, [like this](https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown)). 
 	* Make your document intellectually accesssible to your mock audience. 
 	* No non sequiturs.
 
-* 40% __Technical correctness and completeness.__
-	* Get full points here by, above all, not saying things that are technically incorrect. 
-	* Completeness is a bit nebulus here. You don't need to include _everything_ you could possibly discuss about your topic (that could be an entire textbook in some cases!). 
-	Instead, work to include a combination of breadth and depth that matches the Wikipedia/Scholarpedia style in the examples provided. 
-	In many cases you should include some equations and pseudocode to explain your topic, though there are a few exceptions to this. 
-	Not mentioning a method that is critical to your topic could result in deducted points, especially if that topic was discussed at length in class.
+* 15% __Aesthetics and grammar.__ Get full points here by
+	* Using high quality graphics (if you use graphics). 
+	* Use proper English grammar. 
+	* Separate sections appropriately. 
+	* Include a table of contents, things like this. 
+	* Make it something that you would be proud to show to your colleagues.
 
 ## References
 
@@ -128,4 +128,6 @@ From the `topics.md` document:
 2. Can
 3. Go
 4. Here
-5. Bryngelson, S. H., & Freund, J. B. (2018). Global stability of flowing red blood cell trains. Physical Review Fluids, 3(7). https://doi.org/10.1103/physrevfluids.3.073101 
+5. Like
+6. This
+7. Bryngelson, S. H., & Freund, J. B. (2018). Global stability of flowing red blood cell trains. Physical Review Fluids, 3(7). https://doi.org/10.1103/physrevfluids.3.073101 
