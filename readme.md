@@ -29,11 +29,15 @@ __In your own words.__
 
 ## What your report should not contain
 
-* Videos (`.gif` is acceptable, though, but don't upload anything that is more than 25MB large)
+* Videos (But `.gif` is acceptable! Though __do not__ upload anything that is more than 25MB large. Github will reject it.)
 * Grammar or spelling errors
-* Incomplete sentences.
+* Plagarism. I will check your documents (it's easy to do this, since they will all be plain text). If you plagarize, it will be obvious. 
 
-You are _allowed_ to use external links! You are also encouraged to cite other books and papers (see below for that).
+## Some things you are allowed to do but might not be obvious
+
+* You _are_ allowed to use external links! You are also encouraged to cite other books and papers (see below for that).
+* You _are_ allowed to use HTML within your Markdown document, so long as it renders appropriately within Github. 
+You should check that it does render appropriately by creating a private Github repository for your report and ensuring it works as you expect! 
 
 ## How to submit
 
