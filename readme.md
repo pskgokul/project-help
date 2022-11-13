@@ -108,19 +108,24 @@ From the `topics.md` document:
 	* In many cases you should include some equations and pseudocode to explain your topic, though there are a few exceptions to this.
 	* Not mentioning a method that is critical to your topic could result in deducted points, especially if that topic was discussed at length in class.
 
-* 15% __Clarity.__ Get full points here by
+* 20% __Clarity.__ Get full points here by
 	* Not including topics that are irrelevant to yours (at least not without explanation of why they are there!). 
 	* Do include reference to topics, via links and proper references, that are relevant to yours. 
 	* Use hyperlinks to navigate around your document (for example, [like this](https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown)). 
 	* Make your document intellectually accesssible to your mock audience. 
 	* No non sequiturs.
-
-* 15% __Aesthetics and grammar.__ Get full points here by
-	* Using high quality graphics (if you use graphics). 
 	* Use proper English grammar. 
-	* Separate sections appropriately. 
-	* Include a table of contents, things like this. 
+	* No spelling mistakes.
+
+* 10% __Aesthetics.__ Get full points here by
+	* Using high quality graphics (if you use graphics). 
 	* Make it something that you would be proud to show to your colleagues.
+	* Consistent style.
+
+* 10% __Organization.__ Get full points here by 
+	* Separate and organize sections and subsections appropriately. 
+	* Include a table of contents
+	* References and URL refs. in an appropriate location.
 
 ## References
 
