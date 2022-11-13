@@ -120,7 +120,8 @@ From the `topics.md` document:
 * 10% __Presentation.__ Get full points here by
 	* Using high quality graphics (if you use graphics). 
 	* Consistent style.
-	* Make it something that you would be proud to show to your colleagues.
+	* Proper use of tables, figures, lists (bulleted and numerated), etc.
+	* _Make it something you would be proud to show to your colleagues!_
 
 * 10% __Organization.__ Get full points here by 
 	* Separate and organize sections and subsections appropriately. 
