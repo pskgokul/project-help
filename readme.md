@@ -94,6 +94,19 @@ Here is one that [is probably too long](https://en.wikipedia.org/wiki/Floating-p
 Write your article such that it could be understood by a student who is about to take this course, but hasn't started yet (you just a few months ago!).
 For example, [here is one](http://www.scholarpedia.org/article/WENO_methods) that is presented in a way that is too complex for your mock audience. 
 
+## How you will be graded
+
+From the `topics.md` document: 
+> Some of these topics may be easier or harder to write about depending on at what length they were discussed in class. This will be taken into account while grading, with somewhat fewer details and less depth expected for more complex or well-discussed topics.
+
+### Rubric
+
+* 10% __Asthetics and grammar.__ Get full points by using high quality graphics (if you use graphics). Use proper grammar. Separate sections appropriately. Include a table of contents. Things like this. Make it something that you would be proud to show to your colleagues.
+
+* 10% __Clarity.__ Do not include topics that are irrelevant to yours (at least not without explanation of why they are there!). Do include reference to topics, via links and proper references, that are relevant to yours. Use hyperlinks to navigate around your document (for example, [like this](https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown)). Make your document intellectually accesssible. Avoid non sequiturs.
+
+* 
+
 ## References
 
 1. References
