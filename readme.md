@@ -19,9 +19,10 @@ __In your own words.__
 
 * Appropriate paper and book references at the bottom of the document. Use [APA style](https://www.citationmachine.net/apa).
 
-* I encourage you to write a report that is a hybrid between a wikipedia article (a bit more general audience) and a scholarpedia article (a bit more technical). For example, try:
-	* Including some history and example applications in your report (wikipedia-style) 
-	* Including some pseudocode and some degree of neuance via equations (scholarpedia-style)
+* I encourage you to write a report that is a hybrid between a Wikipedia article (a bit more general audience) and a [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) article (a bit more technical). 
+For example, try:
+	* Including some history and example applications in your report (Wikipedia-style) 
+	* Including some pseudocode and some degree of neuance via equations (Scholarpedia-style)
 	* Here are some such examples 
 		* http://www.scholarpedia.org/article/Galerkin_methods
 		* http://www.scholarpedia.org/article/Meshless_methods_for_PDEs
