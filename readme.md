@@ -22,7 +22,7 @@ __In your own words.__
 * I encourage you to write a report that is a hybrid between a wikipedia article (a bit more general audience) and a scholarpedia article (a bit more technical). For example, try:
 	* Including some history and example applications in your report (wikipedia-style) 
 	* Including some pseudocode and some degree of neuance via equations (scholarpedia-style)
-	* Here are some examples that 
+	* Here are some such examples 
 		* http://www.scholarpedia.org/article/Galerkin_methods
 		* http://www.scholarpedia.org/article/Meshless_methods_for_PDEs
 		* https://en.wikipedia.org/wiki/Euler_method
