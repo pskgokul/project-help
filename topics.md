@@ -45,3 +45,6 @@ This will be taken into account while grading, with somewhat fewer details and l
 32. Types of numerical methods for time stepping. Relative advantages of different methods. 
 33. Accuracy and stability of different types of time-stepping methods. How they are derived and why they are what they are.
 34. Implicit time stepping. Example methods and when they should/shouldn't be used.
+35. Methods for high-order accurate approximation of derivatives. Beyond standard finite differences; things like Pade approximation, WENO/ENO, finite elements, spectral methods, etc.
+36. Methods for high-order accurate approximation of integrals. Beyond standard quadrature methods; things like spectral and finite element methods.
+37. Performance comparison of different programming languages for multiple typical numerical method building blocks. For example, linear solves of different types, least squares, SVD, QR, 1D optimization, etc. Implemented both in the native programming language and using various packages available for that programming language.
