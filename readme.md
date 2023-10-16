@@ -109,7 +109,7 @@ For example, [here is one](http://www.scholarpedia.org/article/WENO_methods) tha
 ## How you will be graded
 
 From the `topics.md` document: 
-> Some of these topics may be easier or harder to write about depending on at what length they were discussed in class. This will be taken into account while grading, with somewhat fewer details and less depth expected for more complex or well-discussed topics.
+> Some of these topics may be easier or harder to write about depending on at what length they were discussed in class. Some of these topics were not discussed in class, but are very closely related to what was discussed in class. This will be taken into account while grading, with somewhat fewer details and less depth or "strictness" expected for more complex or less-discussed topics. In this vein, a uniformly knowledgeable person would find all of these topics equally challenging (or easy!). In practice, I recommend prioritizing topics that seem interesting to you (or suggest your own, if you like!).
 
 ### Rubric
 
