@@ -23,7 +23,7 @@ __In your own words.__
 
 * Compact pseudocode for key algorithms in the topic you chose (if appropriate)
 
-* Appropriate paper and book references at the bottom of the document. Use [APA style](https://www.citationmachine.net/apa).
+* Appropriate paper and book references at the bottom of the document. Use a consistent style (e.g., APA).
 
 * I encourage you to write an article that is a hybrid between a Wikipedia article (a bit more general audience) and a [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) article (a bit more technical). 
 For example, try:
