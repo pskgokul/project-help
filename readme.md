@@ -66,6 +66,7 @@ Title: Title of your article
 Use "Github" flavored markdown, which is a slightly more powerful version of the usual markdown. The file extension is usually `.md`.
 You can include equations in the usual LaTeX-like way, $Ax=b$, or like this
 $$Ax=b.$$
+You can view the source of this markdown document by clicking the edit/raw button on its source, it's also at [this link](https://raw.githubusercontent.com/numerical-analysis-f23/project-help/main/readme.md).
 
 ![](images.png)
 
@@ -103,7 +104,7 @@ Here is one that [is probably too long](https://en.wikipedia.org/wiki/Floating-p
 ## Audience
 
 Write your article such that it could be understood by a student who is about to take this course, but hasn't started yet (you just a few months ago!).
-For example, [here is one](http://www.scholarpedia.org/article/WENO_methods) that is presented in a way that is too complex for your mock audience. 
+For example, [here is one](http://www.scholarpedia.org/article/WENO_methods) that is presented in a way that is likely too complex for your mock audience. 
 
 ## How you will be graded
 
@@ -116,7 +117,7 @@ From the `topics.md` document:
 	* Not saying things that are technically incorrect. 
 	* Completeness is a bit nebulous here. You do not need to include _everything_ you could possibly discuss about your topic (that could be an entire textbook in some cases!). 
 	Instead, include a combination of breadth and depth that is in line with some of the Wikipedia/Scholarpedia examples provided. 
-	* In many cases you should include some equations, pseudocode, and examples to explain your topic, though there are a few exceptions to this.
+	* In many cases you should include some equations, pseudocode, and examples to explain your topic, though there are a few exceptions to this. Use your own discretion.
 	* Not mentioning a method that is critical to your topic could result in deducted points, especially if that topic was discussed at length in class.
 
 * 20% __Clarity.__ Get full points here by
