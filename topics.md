@@ -1,15 +1,19 @@
 # Final Project Topics
 
-Rank-order your top choices of the below topics to write on for your final report. 
+Rank-order your top choices of the below topics to write on for your final project article. 
 Student order will be shuffled then the top still-available topic will be assigned to you. 
 If your list is already fully taken by the time your name comes up, then a random topic from below will be picked for you, so it might be worth including a longer list than you would otherwise.
 The topic itself is the main point.
 I include some details after each topic that you might include in your article, but you should likely include more than just this.
 
-__Special topics:__ You may put your own topic in your list! Make clear that your topic is not one of the ones below by denoted it with an asterisk. Picking a special topic is a way to ensure you get to write about a topic interesting to you, but it should _not_ have been discussed in class (that's what makes it special!).
+__Special topics:__ You may put your own topic in your list! Make clear that your topic is not one of the ones below by denoting it with an asterisk.
+Picking a special topic is a way to ensure you get to write about a topic interesting to you, but it should _not_ have been discussed in class (that's what makes it special!).
 
-__A note on fairness:__ Some of these topics may be easier or harder to write about depending on at what length they were discussed in class. 
-This will be taken into account while grading, with somewhat fewer details and less depth expected for more complex or well-discussed topics. 
+__A note on fairness:__ Some of these topics may be easier or harder to write about depending on at what length they were discussed in class.
+Some of these topics were not discussed in class, but are very closely related to what was discussed in class.
+This will be taken into account while grading, with somewhat fewer details and less depth or "strictness" expected for more complex or less-discussed topics.
+In this vein, a uniformly knowledgeable person would find all of these topics equally challenging (or easy!).
+In practice, I recommend prioritizing topics that seem interesting to you (or suggest your own, if you like!).
 
 1. Floating point number systems. Include some examples of non-standard (non-IEEE) floating point systems. When one might use various types of floating point systems. How they are implemented in software and hardware. Why different hardware may only natively support certain types of floating point numbers.
 2. Floating point arithmetic, how floating-point errors can grow and how to prevent it. Catastrophic cancellation. 
@@ -31,8 +35,8 @@ This will be taken into account while grading, with somewhat fewer details and l
 18. Derivative-free methods for rootfinding: Bisection, Secant, etc. How they work, why they work, what could go wrong. 
 19. Fixed-point iteration methods and Newton's method. How they work, why they work, what gould go wrong. 
 20. Multidimensional methods for root finding. Options/examples of methods. What makes them more challenging to marshall than methods for 1D problems.
-21. Overview of optimization, constrained vs unconstined optimization, how optimization problems are defined, relevance of convexity and optimality conditions. Degenerate cases where things can go "wrong". Linear vs. quadratic vs. nonlinear programming.
-22. 1D unconstained optimization algorithms. Parabolic interpolation, Newton's method, etc. How they work, rates of convergence, why they work, pros and cons of the various different methods.
+21. Overview of optimization, constrained vs unconstrained optimization, how optimization problems are defined, relevance of convexity and optimality conditions. Degenerate cases where things can go "wrong". Linear vs. quadratic vs. nonlinear programming.
+22. 1D unconstrained optimization algorithms. Parabolic interpolation, Newton's method, etc. How they work, rates of convergence, why they work, pros and cons of the various different methods.
 23. 2D optimization algorithm(s). Steepest descent. How the methods work.
 24. Equality constrained optimization. Lagrangians. How they work, example, what can go wrong.
 25. What is interpolation, what is it used for (broadly construed, including in the context of numerical integration), how one should choose what kind of interpolation method to use, differences between least squares fitting.
@@ -47,4 +51,7 @@ This will be taken into account while grading, with somewhat fewer details and l
 34. Implicit time stepping. Example methods and when they should/shouldn't be used.
 35. Methods for high-order accurate approximation of derivatives. Beyond standard finite differences; things like Pade approximation, WENO/ENO, finite elements, spectral methods, etc.
 36. Methods for high-order accurate approximation of integrals. Beyond standard quadrature methods; things like spectral and finite element methods.
-37. Performance comparison of different programming languages for multiple typical numerical method building blocks. For example, linear solves of different types, least squares, SVD, QR, 1D optimization, etc. Implemented both in the native programming language and using various packages available for that programming language.
+37. Performance comparison of different programming languages for multiple typical numerical method building blocks. For example, linear solves of different types, least squares, SVD, derivative approximation, 1D optimization, etc. Implement a couple standard methods both in the native programming language and using one or more packages available for that programming language. Explain surprising and unsurprising results.
+38. Preconditioners. Introduction to what their goal is, how they work, what the different options are, what problems they are appropriate for, etc.
+39. Randomized linear algebra. Methods that use randomization to solve linear systems or least squares problems. How do they work? For what problems might they be a good idea?
+40. Iterative linear solvers. What such methods are most popular, and why? What kinds of problems are they best suited to? Why do they work at all? What problems might one encounter if one blindly chooses to use an iterative solver without first analyzing the problem?
