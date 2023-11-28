@@ -56,7 +56,7 @@ Include the following header at the top of your `.md` file:
 ```
 ---
 Name: Your Name
-Topic: [Topic Number]
+Topic: [Topic Number from topics.md]
 Title: Title of your article
 ----
 ```
