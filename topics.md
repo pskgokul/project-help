@@ -49,9 +49,11 @@ In practice, I recommend prioritizing topics that seem interesting to you (or su
 32. Types of numerical methods for time stepping. Relative advantages of different methods. 
 33. Accuracy and stability of different types of time-stepping methods. How they are derived and why they are what they are.
 34. Implicit time stepping. Example methods and when they should/shouldn't be used.
-35. Methods for high-order accurate approximation of derivatives. Beyond standard finite differences; things like Pade approximation, WENO/ENO, finite elements, spectral methods, etc.
-36. Methods for high-order accurate approximation of integrals. Beyond standard quadrature methods; things like spectral and finite element methods.
-37. Performance comparison of different programming languages for multiple typical numerical method building blocks. For example, linear solves of different types, least squares, SVD, derivative approximation, 1D optimization, etc. Implement a couple standard methods both in the native programming language and using one or more packages available for that programming language. Explain surprising and unsurprising results.
-38. Preconditioners. Introduction to what their goal is, how they work, what the different options are, what problems they are appropriate for, etc.
-39. Randomized linear algebra. Methods that use randomization to solve linear systems or least squares problems. How do they work? For what problems might they be a good idea?
-40. Iterative linear solvers. What such methods are most popular, and why? What kinds of problems are they best suited to? Why do they work at all? What problems might one encounter if one blindly chooses to use an iterative solver without first analyzing the problem?
+35. Very high order accurate time steppers (say, 8th order accurate in time and higher). What are some examples? How do they work? Are they worth using? Are there trade-offs? 
+36. Methods for high-order accurate approximation of derivatives. Beyond standard finite differences; things like Pade approximation, WENO/ENO, finite elements, spectral methods, etc.
+37. Methods for high-order accurate approximation of integrals. Beyond standard quadrature methods; things like spectral and finite element methods.
+38. Performance comparison of different programming languages for multiple typical numerical method building blocks. For example, linear solves of different types, least squares, SVD, derivative approximation, 1D optimization, etc. Implement a couple standard methods both in the native programming language and using one or more packages available for that programming language. Explain surprising and unsurprising results.
+39. Preconditioners. Introduction to what their goal is, how they work, what the different options are, what problems they are appropriate for, etc.
+40. Randomized linear algebra. Methods that use randomization to solve linear systems or least squares problems. How do they work? For what problems might they be a good idea?
+41. Iterative linear solvers. What such methods are most popular, and why? What kinds of problems are they best suited to? Why do they work at all? What problems might one encounter if one blindly chooses to use an iterative solver without first analyzing the problem?
+42. Operator splitting. What is it? Why would one use it? What are some examples and how do they work? In what cases are they necessary?
