@@ -1,9 +1,9 @@
 # CX/MATH 4640 Final Project
 
-The CX/MATH 4640 final project is a Wiki/Scholar-pedia style article on a topic either assigned to you or chosen by yourself (discussed below).
-The goal is for you to be able to describe a particular topic to a younger you in a way that is understandable.
-For your topic, you should cover things discussed in class, but also methods/algorithms/strategies _beyond_ what was discussed in class.
-Take some time, learn about new methods and how they could go wrong/when they go right, and write about them; just like a Wikipedia article would have.
+The CX/MATH 4640 final project is a Wiki/Scholar-pedia-style article on a topic either assigned to you or chosen by you (discussed below).
+The goal is for you to describe a particular topic to a younger you understandably.
+For your topic, you should cover topics discussed in class and methods/algorithms/strategies that go beyond what was discussed in class.
+Take some time to learn about new methods, how they could go wrong, and when they go right, and write about them, just like a Wikipedia article would.
 
 
 ## What your article should contain
@@ -18,7 +18,7 @@ __In your own words.__
 * When the methods fail and when they do well
 	* For example, conditioning can play a role here.
 
-* Examples of edge cases or special cases of the problem. 
+* Edge cases or special cases of the problem. 
 	* For example, solving banded matrices is a "special case" of solving a linear system.
 
 * Compact pseudocode for key algorithms in the topic you chose (if appropriate)
@@ -36,21 +36,21 @@ For example, try:
 
 ## What your article should not contain
 
-* Videos (But `.gif` is acceptable! Though __do not__ upload anything that is more than 25MB large. Github will reject it.)
+* Videos (But `.gif` is acceptable! Though __do not__ upload anything more than 25MB large. Github will reject it.)
 * Grammar or spelling errors
 * Plagiarism. I will check your documents (it's easy to do this since they will all be plain text). If you plagiarize, it will be obvious. 
 
 ## Some things you are allowed to do but might not be obvious
 
-* You _are_ allowed to use external links! You are also encouraged to cite other books and papers (see below for that).
-* You _are_ allowed to use HTML within your Markdown document, so long as it renders appropriately within Github. 
-You should check that it does render appropriately by creating a private GitHub repository for your article and ensuring it works as you expect! 
+* You _are_ allowed to use external links! You are also encouraged to cite other books and papers (see below).
+* You _are_ allowed to use HTML within your Markdown document so long as it renders appropriately within Github. 
+You should check that it renders appropriately by creating a private GitHub repository for your article and ensuring it works as expected! 
 
 ## How to submit
 
-Submit your document formatted as a `.zip` (if you included images) or `.md` (if not) to Canvas.
+Submit your document to Canvas formatted as a `.zip` (if you included images) or `.md` (if not).
 
-__Be sure to create a (private) repository on your own Github profile to make sure that your article shows up as you intended!__
+__Be sure to create a (private) repository on your Github profile to ensure your article shows up as you intended!__
 
 Include the following header at the top of your `.md` file:
 ```
@@ -63,10 +63,10 @@ Title: Title of your article
 
 ## Formatting 
 
-Use "Github" flavored markdown, which is a slightly more powerful version of the usual markdown. The file extension is usually `.md`.
+Use "GitHub" flavored markdown, a slightly different version of the "vanilla" markdown. The file extension is usually `.md`.
 You can include equations in the usual LaTeX-like way, $Ax=b$, or like this
 $$Ax=b.$$
-You can view the source of this markdown document by clicking the edit/raw button on its source, it's also at [this link](https://raw.githubusercontent.com/numerical-analysis-f23/project-help/main/readme.md).
+You can view the source of this markdown document by clicking the edit/raw button on its source; it's also at [this link](https://raw.githubusercontent.com/numerical-analysis-f23/project-help/main/readme.md).
 
 ![](images.png)
 
@@ -103,7 +103,7 @@ Here is one that [is probably too long](https://en.wikipedia.org/wiki/Floating-p
 
 ## Audience
 
-Write your article such that it could be understood by a student who is about to take this course, but hasn't started yet (you just a few months ago!).
+Write your article in a way that would be understood by a student who is about to take this course but hasn't started yet (you just a few months ago!).
 For example, [here is one](http://www.scholarpedia.org/article/WENO_methods) that is presented in a way that is likely too complex for your mock audience. 
 
 ## How you will be graded
@@ -114,11 +114,11 @@ From the `topics.md` document:
 ### Rubric
 
 * 60% __Technical correctness and completeness.__ Get full points here by
-	* Not saying things that are technically incorrect. 
-	* Completeness is a bit nebulous here. You do not need to include _everything_ you could possibly discuss about your topic (that could be an entire textbook in some cases!). 
-	Instead, include a combination of breadth and depth that is in line with some of the Wikipedia/Scholarpedia examples provided. 
-	* In many cases you should include some equations, pseudocode, and examples to explain your topic, though there are a few exceptions to this. Use your own discretion.
-	* Not mentioning a method that is critical to your topic could result in deducted points, especially if that topic was discussed at length in class.
+	* Not saying technically incorrect things. 
+	* Completeness is a bit nebulous here. You do not need to include _everything_ you could discuss about your topic (that could be an entire textbook in some cases!). 
+	Instead, include a combination of breadth and depth that aligns with some of the Wikipedia/Scholarpedia examples provided. 
+	* In many cases you should include some equations, pseudocode, and examples to explain your topic, though there are a few exceptions. Use your discretion.
+	* Not mentioning a method critical to your topic could result in deducted points, especially if that topic was discussed at length in class.
 
 * 20% __Clarity.__ Get full points here by
 	* Not including topics that are irrelevant to yours (at least not without an explanation of why they are there!). 
@@ -139,7 +139,7 @@ From the `topics.md` document:
 * 10% __Organization.__ Get full points here by 
 	* Separate and organize sections and subsections appropriately. 
 	* Include a table of contents
-	* References and URL refs. in an appropriate location.
+	* References and URL references in an appropriate location.
 
 ## References
 
