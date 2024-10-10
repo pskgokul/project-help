@@ -57,3 +57,4 @@ In practice, I recommend prioritizing topics that seem interesting to you (or su
 40. Randomized linear algebra. Methods that use randomization to solve linear systems or least squares problems. How do they work? For what problems might they be a good idea?
 41. Iterative linear solvers. What such methods are most popular, and why? What kinds of problems are they best suited to? Why do they work at all? What problems might one encounter if one blindly chooses to use an iterative solver without first analyzing the problem?
 42. Operator splitting. What is it? Why would one use it? What are some examples and how do they work? In what cases are they necessary?
+43. Application of splines. Where are they used in engineering? What are some examples of splines that engineers use? What are the downsides to the ones they use (and what are the benefits)? Can you give some history on the use of splines and the bespoke splines used in different engineering industries?
